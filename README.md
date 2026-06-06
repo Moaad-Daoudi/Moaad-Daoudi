@@ -188,18 +188,23 @@ Turn AI research into practical, scalable, and impactful software solutions.
 
 ### 📊 GitHub Activity & Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moaad-Daoudi&show_icons=true&theme=tokyonight&count_private=true" alt="Moaad's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moaad-Daoudi&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Moaad-Daoudi&theme=tokyonight&border_radius=10" width="350" />
+    </td>
+    <td valign="middle">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Moaad-Daoudi&theme=tokyonight&border_radius=10" width="350" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moaad-Daoudi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moaad-Daoudi&theme=tokyonight&area=true&hide_border=true" alt="Moaad's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moaad-Daoudi&theme=react-dark&area=true&hide_border=true" alt="Moaad's Activity Graph" />
 </p>
 
 ---
@@ -214,13 +219,27 @@ Turn AI research into practical, scalable, and impactful software solutions.
 
 ### 🐍 Contribution Graph
 
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moaad-Daoudi/Moaad-Daoudi/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
+  <img src="https://raw.githubusercontent.com/Moaad-Daoudi/Moaad-Daoudi/output/github-snake-dark.svg" alt="contribution-snake" />
 </p>
 
 ---
 
 ### 📬 Connect With Me
-- 🌐 **Portfolio**: [https://moaaddaoudi.vercel.app](https://github.com/Moaad-Daoudi) *(Redirects to GitHub)*
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/moaad-daoudi-ba6927329](https://www.linkedin.com/in/moaad-daoudi-ba6927329)
-- ✉️ **Email**: [moaaddaoudi763@gmail.com](mailto:moaaddaoudi763@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moaad-daoudi-ba6927329">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:moaaddaoudi763@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://moaaddaoudi.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>

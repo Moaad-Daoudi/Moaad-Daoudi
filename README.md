@@ -217,11 +217,9 @@ Turn AI research into practical, scalable, and impactful software solutions.
 
 ---
 
-### 🐍 Contribution Graph
-
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moaad-Daoudi/Moaad-Daoudi/output/github-snake-dark.svg" alt="contribution-snake" />
+  <img src="https://raw.githubusercontent.com/Moaad-Daoudi/Moaad-Daoudi/output/github-snake.svg" alt="contribution-snake" />
 </p>
 
 ---

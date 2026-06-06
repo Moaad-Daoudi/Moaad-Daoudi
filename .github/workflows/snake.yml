@@ -28,3 +28,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          # Only push the specific file we generated
+          force_orphan: true

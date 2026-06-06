@@ -1,35 +1,35 @@
-name: Metrics
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs daily
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+# name: Metrics
+# on:
+#   schedule:
+#     - cron: "0 0 * * *" # Runs daily
+#   workflow_dispatch:
+#   push:
+#     branches:
+#       - main
 
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+# jobs:
+#   metrics:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write
+#     steps:
+#       - uses: lowlighter/metrics@latest
+#         with:
+#           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Options
-          user: Moaad-Daoudi
-          template: classic
-          base: header, activity, community, repositories, metadata
+#           # Options
+#           user: Moaad-Daoudi
+#           template: classic
+#           base: header, activity, community, repositories, metadata
           
-          # These cards create the "Productivity/Night Owl" look
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_introduction: yes
+#           # These cards create the "Productivity/Night Owl" look
+#           plugin_isocalendar: yes
+#           plugin_languages: yes
+#           plugin_activity: yes
+#           plugin_activity_limit: 5
+#           plugin_introduction: yes
           
-          # Productivity cards
-          plugin_lines: yes
-          plugin_notable: yes
-          plugin_timezone: Africa/Casablanca
+#           # Productivity cards
+#           plugin_lines: yes
+#           plugin_notable: yes
+#           plugin_timezone: Africa/Casablanca

@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Moaad Daoudi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=AI+Engineer;Problem+Solver;Full-Stack+Developer;AI+Pipeline+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=AI+Engineer;Problem+Solver;Full-Stack+Developer;Building+End-to-End+AI+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/daoudi-moaad" target="_blank">
+  <a href="www.linkedin.com/in/moaad-daoudi-ba6927329" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:moaaddaoudi763@gmail.com">
@@ -16,34 +16,25 @@
 
 ---
 
-### 🚀 About Me
-I am a **Software and AI Engineering student** seeking a PFA (*Projet de Fin d'Année*) internship. I specialize in solving complex business problems by building end-to-end AI pipelines. By combining advanced data-driven algorithms (Machine Learning, Deep Learning, NLP, and LLMs) with robust Full-Stack development, I transform raw data into scalable, intelligent software solutions.
+### 👋 Who I Am
+AI Engineer & Full-Stack Developer focused on building production-ready intelligent systems.
 
-- 🎓 **Education**: State Digital Transformation & Artificial Intelligence Engineer Student at Abdelmalek Essaadi University (National School of Applied Sciences Al Hoceima) — *2022 - Present*.
-- 💼 **Experience**: Worked as a Full-Stack developer intern at EHC (React, Spring Boot, WebSockets).
+🧠 **AI Engineering:**
+Machine Learning | Deep Learning | NLP | LLMs | RAG pipelines
 
----
+💻 **Full-Stack Engineering:**
+Frameworks Web | Spring Boot | REST APIs | Databases | System Design
 
-### 🎮 Character Stats (RPG System)
+🚀 **What I build:**
+End-to-end AI applications — from training models to deploying full-stack products with real users.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HP_-[ENGINEERING_CORE]_100%20%2F%20100-3fb950?style=for-the-badge&logo=shield" alt="HP" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MP_-[NEURAL_FLUX]_85%20%2F%2085-58a6ff?style=for-the-badge&logo=openai" alt="MP" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/XP_-[INTERNSHIP_QUEST]_82%25_Progress-d29922?style=for-the-badge&logo=star" alt="XP" />
-</p>
+🎯 **Mission:**
+Turn AI research into practical, scalable, and impactful software solutions.
 
-| Metric / Attribute | Level / Value | Level Progress Grid |
-| :--- | :---: | :--- |
-| **Class Category** | **Full-Stack AI Sorcerer 🧙‍♂️** | `[████████████████████]` (100%) |
-| **Current Quest** | **Internship PFA Search 🔍** | `[██████████████████░░]` (90%) |
-| **COD** (Coding & Logic) | **90 / 100** ⚡ | `[██████████████████░░]` (90%) |
-| **AI_ML** (Data & Analytics) | **88 / 100** 🧠 | `[██████████████████░░]` (88%) |
-| **DB_SYS** (Database & System) | **85 / 100** 🛡️ | `[█████████████████░░░]` (85%) |
-| **DVOPS** (DevOps & Cloud) | **80 / 100** ⚙️ | `[████████████████░░░░]` (80%) |
-| **Bug Resistance** | **95% (High Def)** 🏹 | `[███████████████████░]` (95%) |
-| **Coffee Utilization** | **Maximum** ☕ | `[████████████████████]` (100%) |
+🎯 **Professional Snapshot:**
+- 🎓 **Education:** Digital Transformation & AI Engineer @ ENSA Al Hoceima (2022 - Present).
+- 💼 **Experience:** Full-Stack Developer Intern @ EHC (React, Spring Boot, WebSockets, i18n, CRUD).
+- 📍 **Status:** Seeking PFA (Projet de Fin d'Année) Internship opportunities.
 
 ---
 
@@ -133,41 +124,103 @@ I am a **Software and AI Engineering student** seeking a PFA (*Projet de Fin d'A
 
 ---
 
-### 📁 Featured Projects
+## 📁 Featured Projects
 
-🛡️ **[AtlasLegalAI](https://github.com/Moaad-Daoudi)**
-- **Role**: Architect & Developer (Python, FastAPI, React, Qwen2.5, PEFT, FAISS)
-- **Impact**: Fine-tuned Qwen2.5-3B using PEFT/QLoRA on 1,100+ curated Moroccan legal QA pairs. Architected a hybrid RAG pipeline with multilingual embeddings to decrease hallucinations.
+### 🛡️ [AtlasLegalAI](https://github.com/tarik-boukaidi/Judiciaire-model)
+**AI Engineer | RAG | NLP | LLM**
 
-📊 **[Job Intelligent](https://github.com/Moaad-Daoudi)**
-- **Role**: Data Pipeline Engineer (Python, Airflow, Scrapy, PostgreSQL, MinIO, Power BI)
-- **Impact**: Built web scraping pipelines to collect job listings, orchestrated via Apache Airflow in a Medallion lakehouse architecture. Designed Power BI reporting dashboards for market analytics.
+- Fine-tuned Qwen2.5-3B using PEFT/QLoRA on 1,100+ curated Moroccan legal QA pairs.
+- Designed a hybrid RAG pipeline with multilingual embeddings and FAISS vector search.
+- Reduced hallucinations and improved legal information retrieval accuracy.
 
-⚡ **[AI-SIEM Platform](https://github.com/Moaad-Daoudi)**
-- **Role**: AI & Security Integrator (Python, ELK Stack, Isolation Forest, Docker)
-- **Impact**: Built real-time log ingestion via Filebeat/Logstash. Trained Isolation Forest anomaly detection models in Python to dynamically flag threat signatures in Kibana.
+**Tech Stack:** Python, FastAPI, React, Qwen2.5, PEFT, FAISS
 
-🏥 **[MediConsult](https://github.com/Moaad-Daoudi)**
-- **Role**: Full-Stack Engineer (PHP, Laravel, Blade, JavaScript, MySQL)
-- **Impact**: Engineered a secure patient telehealth portal with role-based access controllers, scheduling calendars, and e-prescription handlers.
+---
+
+### 📊 [Job Intelligent](https://github.com/Moaad-Daoudi/job-intelligent)
+**Data Engineer | AI Engineer**
+
+- Built automated web scraping pipelines for collecting job market data.
+- Orchestrated workflows using Apache Airflow.
+- Implemented a Medallion Lakehouse architecture for data processing.
+- Developed Power BI dashboards for labor market analytics.
+
+**Tech Stack:** Python, Airflow, Scrapy, PostgreSQL, MinIO, Power BI
+
+---
+
+### ⚡ [AI-SIEM Platform](https://github.com/Moaad-Daoudi/ai-log-anomaly-detector)
+**AI Security Engineer**
+
+- Developed a real-time log monitoring and anomaly detection platform.
+- Integrated Filebeat, Logstash, Elasticsearch, and Kibana.
+- Trained Isolation Forest models for threat and anomaly detection.
+- Containerized services using Docker.
+
+**Tech Stack:** Python, ELK Stack, Filebeat, Isolation Forest, Docker
+
+---
+
+### 🏥 [MediConsult](https://github.com/Moaad-Daoudi/consultation-Med)
+**Full-Stack Engineer**
+
+- Built a healthcare consultation platform with role-based access control.
+- Implemented appointment scheduling and prescription management.
+- Designed secure backend APIs and database architecture.
+
+**Tech Stack:** Laravel, PHP, Blade, JavaScript, MySQL
+
+---
+
+### 🛒 [Marketplace Platform (Odoo Enterprise)](https://github.com/Moaad-Daoudi/e-commerce_odoo)
+
+**Python Backend Engineer | ERP Developer**
+
+- Designed and developed a multi-vendor marketplace platform on Odoo 17/18 Enterprise.
+- Extended core Odoo modules including Sales, Inventory, Accounting, Website, Payment, and Portal.
+- Architected vendor management, commission tracking, payout processing, and multi-vendor order workflows.
+- Implemented role-based access control, automated financial processes, and vendor/customer portals.
+- Built entirely using Python and Odoo ORM following enterprise software architecture principles.
+
+**Tech Stack:** Python, Odoo 17/18, PostgreSQL, Odoo ORM, XML/QWeb
 
 ---
 
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moaad-Daoudi&show_icons=true&theme=tokyonight&count_private=true" alt="Moaad's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moaad-Daoudi&show_icons=true&theme=tokyonight&count_private=true" alt="Moaad's GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moaad-Daoudi&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moaad-Daoudi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moaad-Daoudi&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moaad-Daoudi&theme=tokyonight&area=true&hide_border=true" alt="Moaad's Activity Graph" />
+</p>
+
+---
+
+### 📈 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moaad-Daoudi&theme=tokyonight&border_radius=10" alt="GitHub Profile Summary" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Moaad-Daoudi/Moaad-Daoudi/output/github-contribution-grid-snake.svg" alt="contribution-snake" />
+</p>
+
 ---
 
 ### 📬 Connect With Me
-- 🌐 **Portfolio**: [moaaddaoudi.com](https://github.com/Moaad-Daoudi) *(Redirects to GitHub)*
-- 💼 **LinkedIn**: [linkedin.com/in/daoudi-moaad](https://linkedin.com/in/daoudi-moaad)
+- 🌐 **Portfolio**: [https://moaaddaoudi.vercel.app](https://github.com/Moaad-Daoudi) *(Redirects to GitHub)*
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/moaad-daoudi-ba6927329](https://www.linkedin.com/in/moaad-daoudi-ba6927329)
 - ✉️ **Email**: [moaaddaoudi763@gmail.com](mailto:moaaddaoudi763@gmail.com)

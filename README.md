@@ -22,11 +22,11 @@
 🧠 **AI Engineering:**
 Machine Learning (Pandas, Numpy, Matplotlib, Scikit-Learn) | Deep Learning (PyTorch, TensorFlow, Keras) | NLP | RAG pipelines | Multimodal Models | Generative AI
 
-* ⚡ **Data Engineering & BI:**
+⚡ **Data Engineering:**
 Medallion Lakehouses | Apache Airflow | Apache Hadoop | ETL Pipelines | Power BI | Vector DBs (Qdrant, FAISS, ChromaDB)
 
 💻 **Full-Stack Engineering:**
-Frameworks Web | FastAPI | Spring Boot | REST APIs & WebSockets| Databases | System Design | Microservices Architecture | Docker
+Frameworks Web | FastAPI | Spring Boot | REST APIs & WebSockets | Databases | System Design | Microservices Architecture | Docker
 
 🚀 **What I build:**
 End-to-end intelligent applications — from model training, quantization, and speech/vision pipelines to full-stack production deployments.
@@ -48,82 +48,78 @@ Turn AI research into practical, scalable, and impactful software solutions.
 
 <table>
   <tr>
+    <!-- 1. AI, DEEP LEARNING & MULTIMODAL -->
     <td valign="top" width="50%">
-      <h4>🧠 AI &amp; Data Science</h4>
+      <h4>🧠 AI, Deep Learning &amp; Multimodal</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
       <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/NLP_&_LLMs-58a6ff?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
-      <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/Transformers-yellow?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/PEFT_%2F_QLoRA-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="Fine-Tuning" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/BeautifulSoup-8b949e?style=flat-square&logo=web&logoColor=white" alt="BeautifulSoup" />
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-      <img src="https://img.shields.io/badge/Scrapy-60A830?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Apache_Airflow-017CEB?style=flat-square&logo=apache-airflow&logoColor=white" alt="Airflow" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A29?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark" />
-      <img src="https://img.shields.io/badge/Apache_Hadoop-FFFF00?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
-      <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
     </td>
+    <!-- 2. FULL-STACK & MICROSERVICES -->
     <td valign="top" width="50%">
-      <h4>💻 Full-Stack Development &amp; ERP</h4>
+      <h4>💻 Full-Stack &amp; Microservices</h4>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Microservices-374151?style=flat-square&logo=serverless&logoColor=white" alt="Microservices" />
+      <img src="https://img.shields.io/badge/REST_APIs-3fb950?style=flat-square&logo=api&logoColor=white" alt="REST" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/PHP_Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Odoo_16%2F17-875A7B?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
-      <img src="https://img.shields.io/badge/QWeb_(XML)-875A7B?style=flat-square&logo=xml&logoColor=white" alt="QWeb" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Odoo_16%2F17-875A7B?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
     </td>
   </tr>
   <tr>
+    <!-- 3. DATA ENGINEERING & BI -->
     <td valign="top" width="50%">
-      <h4>🗄 Databases, Indexing &amp; Search</h4>
+      <h4>⚡ Data Engineering</h4>
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEB?style=flat-square&logo=apache-airflow&logoColor=white" alt="Airflow" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
+      <img src="https://img.shields.io/badge/Medallion_Architecture-00599C?style=flat-square&logo=databricks&logoColor=white" alt="Medallion" />
+      <br/><br/>
+      <!-- <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A29?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark" /> -->
+      <img src="https://img.shields.io/badge/Apache_Hadoop-FFFF00?style=flat-square&logo=apachehadoop&logoColor=black" alt="Hadoop" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Scrapy-60A830?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy" />
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+    </td>
+    <!-- 4. DATABASES, CLOUD & DEVOPS -->
+    <td valign="top" width="50%">
+      <h4>⚙ Databases, Cloud &amp; DevOps</h4>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-      <img src="https://img.shields.io/badge/Vector_Search-00F0FF?style=flat-square&logo=database&logoColor=black" alt="VectorSearch" />
-      <img src="https://img.shields.io/badge/ChromaDB-38bdf8?style=flat-square&logo=database&logoColor=white" alt="ChromaDB" />
+      <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square&logo=database&logoColor=white" alt="Qdrant" />
       <img src="https://img.shields.io/badge/FAISS-00c8ff?style=flat-square&logo=database&logoColor=black" alt="FAISS" />
-    </td>
-    <td valign="top" width="50%">
-      <h4>⚙ Cloud, DevOps &amp; Engineering Tools</h4>
+      <img src="https://img.shields.io/badge/ChromaDB-38bdf8?style=flat-square&logo=database&logoColor=white" alt="ChromaDB" />
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+      <br/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK" />
-      <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white" alt="Logstash" />
-      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana" />
-      <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=elastic&logoColor=white" alt="Filebeat" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Kali_Linux-557c11?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali" />
-      <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
       <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/REST_API-3fb950?style=flat-square&logo=api&logoColor=white" alt="REST" />
-      <img src="https://img.shields.io/badge/MVC_Pattern-d29922?style=flat-square&logo=model&logoColor=white" alt="MVC" />
-      <img src="https://img.shields.io/badge/Agile%2FScrum-58a6ff?style=flat-square&logo=scrumalliance&logoColor=white" alt="Agile" />
+      <img src="https://img.shields.io/badge/CI%2FCD_GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+      <img src="https://img.shields.io/badge/Linux_Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
 </table>
@@ -132,7 +128,7 @@ Turn AI research into practical, scalable, and impactful software solutions.
 
 ## 📁 Featured Projects
 
-### 🛡️ [AtlasLegalAI](https://github.com/tarik-boukaidi/Judiciaire-model)
+### 🛡️ [AtlasLegalAI](https://github.com/Moaad-Daoudi/atlas-legal-ai)
 **AI Engineer | RAG | NLP | LLM**
 
 - Fine-tuned Qwen2.5-3B using PEFT/QLoRA on 1,100+ curated Moroccan legal QA pairs.
@@ -210,7 +206,7 @@ Turn AI research into practical, scalable, and impactful software solutions.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moaad-Daoudi&theme=react-dark&area=true&hide_border=true" alt="Moaad's Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moaad-Daoudi&show_icons=true&theme=tokyonight&hide_border=true" alt="Moaad's GitHub Stats" />
 </p>
 
 ---

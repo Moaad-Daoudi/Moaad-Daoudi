@@ -17,24 +17,30 @@
 ---
 
 ### 👋 Who I Am
-AI Engineer & Full-Stack Developer focused on building production-ready intelligent systems.
+**Full-Stack AI & Data Engineer** focused on building production-ready multimodal intelligent systems and scalable architectures.
 
 🧠 **AI Engineering:**
-Machine Learning | Deep Learning | NLP | LLMs | RAG pipelines
+Machine Learning (Pandas, Numpy, Matplotlib, Scikit-Learn) | Deep Learning (PyTorch, TensorFlow, Keras) | NLP | RAG pipelines | Multimodal Models | Generative AI
+
+* ⚡ **Data Engineering & BI:**
+Medallion Lakehouses | Apache Airflow | Apache Hadoop | ETL Pipelines | Power BI | Vector DBs (Qdrant, FAISS, ChromaDB)
 
 💻 **Full-Stack Engineering:**
-Frameworks Web | Spring Boot | REST APIs | Databases | System Design
+Frameworks Web | FastAPI | Spring Boot | REST APIs & WebSockets| Databases | System Design | Microservices Architecture | Docker
 
 🚀 **What I build:**
-End-to-end AI applications — from training models to deploying full-stack products with real users.
+End-to-end intelligent applications — from model training, quantization, and speech/vision pipelines to full-stack production deployments.
 
 🎯 **Mission:**
 Turn AI research into practical, scalable, and impactful software solutions.
 
 🎯 **Professional Snapshot:**
-- 🎓 **Education:** Digital Transformation & AI Engineer @ ENSA Al Hoceima (2022 - Present).
-- 💼 **Experience:** Full-Stack Developer Intern @ EHC (React, Spring Boot, WebSockets, i18n, CRUD).
-- 📍 **Status:** Seeking PFA (Projet de Fin d'Année) Internship opportunities.
+- 🎓 **Education:** State Engineering Degree in Digital Transformation & AI @ **ENSA Al Hoceima** (2022 – Present).
+- 💼 **Experience:**
+  - **AI & Software Engineer Intern** @ Ibhar Network *(VLMs, Hybrid RAG with Qdrant, Next.js, FastAPI)*.
+  - **Full-Stack Developer Intern** @ EHC *(React, Spring Boot, WebSockets)*.
+- 📜 **Certification:** Microsoft Certified: Designing and Implementing Multi-Agent AI Solutions (**AI-500**).
+- 📍 **Status:** Actively seeking a 4-to-6 month **End-of-Studies Internship (PFE)** in **Data & AI / Full-Stack AI Engineering**.
 
 ---
 
